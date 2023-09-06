@@ -9,7 +9,7 @@ import { EMPTY, Observable, catchError, map } from "rxjs";
 })
 export class ProductService {
 
-  baseUrl = 'https://pp-production-b3c0.up.railway.app/products';
+  baseUrl = 'https://crud-produtos-production.up.railway.app/products';
 
   constructor(private snackBar: MatSnackBar, private http: HttpClient) { }
 
