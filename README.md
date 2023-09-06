@@ -6,7 +6,7 @@
 <li>Apagar um produto.</li>
 <li>Visualizar a lista de produtos cadastrados.</li>
   
-<h2>Requisitos para executar este projeto em sua máquina, você precisará ter as seguintes ferramentas instaladas:</h2>h2>
+<h2>Requisitos para executar este projeto em sua máquina, você precisará ter as seguintes ferramentas instaladas:</h2>
   <li>Java Development Kit (JDK) 8 ou superior. </li>
   <li>Node.js e npm (Node Package Manager). </li>
   <li>Angular CLI. </li>
