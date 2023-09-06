@@ -1,12 +1,12 @@
-<h1>Projeto de CRUD de Produtos com Angular e Spring Boot
-Este é um projeto de exemplo que demonstra como criar um aplicativo web de CRUD de produtos usando Angular e Spring Boot, com persistência de dados no PostgreSQL. O aplicativo permite que os usuários realizem as seguintes operações:</h1>
+<h1>Projeto de CRUD de Produtos com Angular e Spring Boot</h1>
+<h2>Este é um projeto de exemplo que demonstra como criar um aplicativo web de CRUD de produtos usando Angular e Spring Boot, com persistência de dados no PostgreSQL. O aplicativo permite que os usuários realizem as seguintes operações:</h2>
 <ul><h3>
 <li>Criar um novo produto com nome e preço.</li>
 <li>Editar as informações de um produto existente.</li>
 <li>Apagar um produto.</li>
 <li>Visualizar a lista de produtos cadastrados.</li>
   
-<strong>Requisitos para executar este projeto em sua máquina, você precisará ter as seguintes ferramentas instaladas:</strong>
+<h2>Requisitos para executar este projeto em sua máquina, você precisará ter as seguintes ferramentas instaladas:</h2>h2>
   <li>Java Development Kit (JDK) 8 ou superior. </li>
   <li>Node.js e npm (Node Package Manager). </li>
   <li>Angular CLI. </li>
@@ -15,8 +15,8 @@ Este é um projeto de exemplo que demonstra como criar um aplicativo web de CRUD
   <li>Um navegador da web moderno. </li>
   <li>Configurar o Banco de Dados </li>
 
-<strong>  Este projeto utiliza o banco de dados PostgreSQL para armazenar os dados dos produtos. Certifique-se de criar um banco de dados PostgreSQL e configurar as informações de conexão no arquivo application.properties do projeto Spring Boot.
-Exemplo de configuração do banco de dados no application.properties:</strong>
+<h2>  Este projeto utiliza o banco de dados PostgreSQL para armazenar os dados dos produtos. Certifique-se de criar um banco de dados PostgreSQL e configurar as informações de conexão no arquivo application.properties do projeto Spring Boot.
+Exemplo de configuração do banco de dados no application.properties:</h2>
   <li>spring.datasource.url=jdbc:postgresql://localhost:5432/seu_banco_de_dados </li>
   <li>spring.datasource.username=seu_usuario </li>
   <li>spring.datasource.password=sua_senha </li>
@@ -27,14 +27,14 @@ Exemplo de configuração do banco de dados no application.properties:</strong>
   <li>Execute a classe principal ProductCrudApplication para iniciar o servidor Spring Boot. </li>
   <li>O servidor será iniciado em http://localhost:8080/products. </li>
 
-<strong>Configuração do Front-End (Angular):</strong>
+<h2>Configuração do Front-End (Angular):</h2>
   <li>Navegue até a pasta frontend no terminal. </li>
   <li>Execute o comando npm install para instalar as dependências do Angular. </li>
   <li>Após a instalação, execute ng serve para iniciar o servidor de desenvolvimento do Angular. </li>
   <li>O aplicativo Angular estará disponível em http://localhost:4200/products. </li>
 
-Uso:
-<strong>Acesse o aplicativo no navegador em http://localhost:4200/products. Você verá a interface do usuário do CRUD de produtos.</strong>
+<h2>Uso:</h2>
+  <li>Acesse o aplicativo no navegador em http://localhost:4200/products. Você verá a interface do usuário do CRUD de produtos.</li>
   <li>Para criar um novo produto, clique no botão "Adicionar Produto" e preencha as informações. </li>
   <li>Para editar um produto existente, clique no botão de edição ao lado do produto na lista. </li>
   <li>Para apagar um produto, clique no botão de exclusão ao lado do produto na lista. </li>
