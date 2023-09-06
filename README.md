@@ -1,6 +1,7 @@
 <h1>Projeto de CRUD de Produtos com Angular e Spring Boot</h1>
-<h2>Este é um projeto de exemplo que demonstra como criar um aplicativo web de CRUD de produtos usando Angular e Spring Boot, com persistência de dados no PostgreSQL. O aplicativo permite que os usuários realizem as seguintes operações:</h2>
+<h2>Este é um projeto de exemplo que demonstra como criar um aplicativo web de CRUD de produtos usando Angular e Spring Boot.</h2>
 <ul><h3>
+ <h2>O aplicativo permite que os usuários realizem as seguintes operações:</h2>
 <li>Criar um novo produto com nome e preço.</li>
 <li>Editar as informações de um produto existente.</li>
 <li>Apagar um produto.</li>
