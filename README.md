@@ -4,7 +4,7 @@ Este é um projeto de exemplo que demonstra como criar um aplicativo web de CRUD
 <li>Criar um novo produto com nome e preço.</li>
 <li>Editar as informações de um produto existente.</li>
 <li>Apagar um produto.</li>
-<li>Visualizar a lista de produtos cadastrados.</ul>li>
+<li>Visualizar a lista de produtos cadastrados.</li>
   
 <strong>Requisitos para executar este projeto em sua máquina, você precisará ter as seguintes ferramentas instaladas:</strong>
   <li>Java Development Kit (JDK) 8 ou superior. </li>
