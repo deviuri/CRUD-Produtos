@@ -15,8 +15,8 @@
   <li>Um navegador da web moderno. </li>
   <li>Configurar o Banco de Dados </li>
 
-<h2>  Este projeto utiliza o banco de dados PostgreSQL para armazenar os dados dos produtos. Certifique-se de criar um banco de dados PostgreSQL e configurar as informações de conexão no arquivo application.properties do projeto Spring Boot.
-Exemplo de configuração do banco de dados no application.properties:</h2>
+<h2>  Este projeto utiliza o banco de dados PostgreSQL para armazenar os dados dos produtos. Certifique-se de criar um banco de dados PostgreSQL e configurar as informações de conexão no arquivo application.properties do projeto Spring Boot.</h2>
+<p>Exemplo de configuração do banco de dados no application.properties:</p>
   <li>spring.datasource.url=jdbc:postgresql://localhost:5432/seu_banco_de_dados </li>
   <li>spring.datasource.username=seu_usuario </li>
   <li>spring.datasource.password=sua_senha </li>
